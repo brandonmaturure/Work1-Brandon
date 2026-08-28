@@ -37,6 +37,6 @@ take any random number and check whether that different number is prime or not :
 alg//
 This is a code for you
 
-
+hey
 
 
