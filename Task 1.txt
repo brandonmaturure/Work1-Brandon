@@ -1,0 +1,41 @@
+Task 1
+
+input//
+a=20
+b=10
+
+alg//
+step 1: take a variable and call it x or c
+step 2: c=a i.e take the value of a (20) and give it to c and now the value of c is 20
+step 3: a = b that is, take the value of b(10) and give to a so that a will become 10
+step 4: b = c that is, take the value of c(20) and give to b so that b will be 20
+
+
+output//
+a=10
+b=20
+
+Task 2
+
+algorithm //
+
+Step 1: I will use compounding technique 
+
+a = a + b // i am simply adding up the two variables 20 + 10 = a (30)
+
+b = a - 10 // i am simply subtracting the two variables 30 - 10 = b (20)
+
+step 2: b = a - b now the new value of a is 30 and b is 10, 40-10 becomes the new value of b which is 20
+
+step 3:b(20) - a(30) = 10
+value of a = 10
+
+
+Task 3:
+take any random number and check whether that different number is prime or not : A prime number is a whole number greater than 1 that has exactly two factors: 1 and itself.
+
+alg//
+
+
+
+
